@@ -1,0 +1,18 @@
+.background    { background-image: url("https://i.pinimg.com/474x/32/2a/89/322a89d16d46f9ba0c65b6dce1f91739.jpg") ;
+                 table-layout: repeat;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background-image: url("https://i.imgur.com/dcYzAZZ.png"); }
+.wall          { background: #241411 ;   }
+.floater       { background: #E1E3D5 ; }
+
+.actor  { position: absolute;  }
+.coin   { background-image: url("https://i.imgur.com/qEwMHtL.png"); }
+.player { background-image: url("https://i.imgur.com/VWF4r3E.png"); }
+
+.game {
+  overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;
+  position: relative;
+}
